@@ -7,10 +7,10 @@
 7. Implement a program to find greatest of two numbers
 8. Implement a program which shows the different String Methods
 9. Implement a Program using Loops
-10.Implement a program using Switch Cases
-11.Implement a program to swap two numbers
-12.Implement a program to calculate sum of array elements
-13.Implement a program to check given number is prime or not
-14.Implement a program to check given number is prime or not using MathSqrt method
-15.Implements a Program to check given string is palindrome or not
+10. Implement a program using Switch Cases
+11. Implement a program to swap two numbers
+12. Implement a program to calculate sum of array elements
+13. Implement a program to check given number is prime or not
+14. Implement a program to check given number is prime or not using MathSqrt method
+15. Implements a Program to check given string is palindrome or not
    
