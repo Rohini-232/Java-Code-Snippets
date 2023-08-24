@@ -13,4 +13,13 @@
 13. Implement a program to check given number is prime or not
 14. Implement a program to check given number is prime or not using MathSqrt method
 15. Implements a Program to check given string is palindrome or not
+16. Implements a Program to find Average of three numbers
+17. Implements a Program to find the prime numbers in an array
+18. Implements a Program to check given year is leap year or not
+19. Implements a Program to find Binomial coefficient of given number
+20. Implements a Program to convert decimal number into binary number
+21. Implements a Program to find Smallest Element in an array
+22. Implements a Program to find Largest Element in an array
+23. Implements a Program to find first occurance of an Element in an array
+24. Implements a program to print the sub array from given array
    
