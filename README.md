@@ -6,4 +6,7 @@
 6. Implement a program to print the Fibonacci Series
 7. Implement a program to find greatest of two numbers
 8. Implement a program which shows the different String Methods
+9. Implement a Program using Loops
+10. Implements a program using Switch Cases
+11. 
    
