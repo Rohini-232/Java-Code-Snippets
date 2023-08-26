@@ -23,4 +23,4 @@
 23. Implements a Program to find Largest Element in an array
 24. Implements a Program to find first occurance of an Element in an array
 25. Implements a program to print the sub array from given array
-   
+26. Implements a program to Find all Pairs possible from the given Array
