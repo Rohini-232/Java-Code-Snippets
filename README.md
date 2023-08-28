@@ -24,3 +24,4 @@
 24. Implements a Program to find first occurance of an Element in an array
 25. Implements a program to print the sub array from given array
 26. Implements a program to Find all Pairs possible from the given Array
+27. Implement a program to print Butterfly pattern
