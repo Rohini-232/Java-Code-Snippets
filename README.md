@@ -26,3 +26,4 @@
 26. Implements a program to Find all Pairs possible from the given Array
 27. Implement a program to print Butterfly pattern
 28. Implement a program to print zero one Triangle Pattern
+29. Implement a program to print solid rhombus pattern
