@@ -29,3 +29,4 @@
 29. Implement a program to print solid rhombus pattern
 30. Implement a program to print Floyds Triangle pattern
 31. Implement a program to print Hollow Rectangle pattern
+32. Implement a program to print Spiral Matrix
