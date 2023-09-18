@@ -31,3 +31,4 @@
 31. Implement a program to print Hollow Rectangle pattern
 32. Implement a program to print Spiral Matrix
 33. Implement a program to find largest element in Array
+34. Implement a program to print character patterm
