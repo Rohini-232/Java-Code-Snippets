@@ -34,3 +34,4 @@
 34. Implement a program to print character pattern
 35. Implement a program to print Diamond Pattern
 36. Implement a program to print Half Pyramid Pattern
+37. Implement a program to find smallest element in array
