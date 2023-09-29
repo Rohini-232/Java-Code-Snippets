@@ -36,3 +36,4 @@
 36. Implement a program to print Half Pyramid Pattern
 37. Implement a program to find smallest element in array
 38. Implement a program to find maximum of subarray
+39. Implement a program to Transpose Array
