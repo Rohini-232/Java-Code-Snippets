@@ -38,3 +38,4 @@
 38. Implement a program to find maximum of subarray
 39. Implement a program to Transpose Array
 40. Implement a program for spiral matrix
+41. Implement a program to calculate the sum of diagonal element in 2D Array
