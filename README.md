@@ -39,3 +39,4 @@
 39. Implement a program to Transpose Array
 40. Implement a program for spiral matrix
 41. Implement a program to calculate the sum of diagonal element in 2D Array
+42. Implement a program to check Armstrong number
