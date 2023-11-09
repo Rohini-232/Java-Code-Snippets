@@ -23,20 +23,21 @@
 23. Implements a Program to find Largest Element in an array
 24. Implements a Program to find first occurance of an Element in an array
 25. Implements a program to print the sub array from given array
-26. Implements a program to Find all Pairs possible from the given Array
-27. Implement a program to print Butterfly pattern
-28. Implement a program to print zero one Triangle Pattern
-29. Implement a program to print solid rhombus pattern
-30. Implement a program to print Floyds Triangle pattern
-31. Implement a program to print Hollow Rectangle pattern
-32. Implement a program to print Spiral Matrix
-33. Implement a program to find largest element in Array
-34. Implement a program to print character pattern
-35. Implement a program to print Diamond Pattern
-36. Implement a program to print Half Pyramid Pattern
-37. Implement a program to find smallest element in array
-38. Implement a program to find maximum of subarray
-39. Implement a program to Transpose Array
-40. Implement a program for spiral matrix
-41. Implement a program to calculate the sum of diagonal element in 2D Array
-42. Implement a program to check Armstrong number
+26. Implement a program using sort function
+27. Implements a program to Find all Pairs possible from the given Array
+28. Implement a program to print Butterfly pattern
+29. Implement a program to print zero one Triangle Pattern
+30. Implement a program to print solid rhombus pattern
+31. Implement a program to print Floyds Triangle pattern
+32. Implement a program to print Hollow Rectangle pattern
+33. Implement a program to print Spiral Matrix
+34. Implement a program to find largest element in Array
+35. Implement a program to print character pattern
+36. Implement a program to print Diamond Pattern
+37. Implement a program to print Half Pyramid Pattern
+38. Implement a program to find smallest element in array
+39. Implement a program to find maximum of subarray
+40. Implement a program to Transpose Array
+41. Implement a program for spiral matrix
+42. Implement a program to calculate the sum of diagonal element in 2D Array
+43. Implement a program to check Armstrong number
