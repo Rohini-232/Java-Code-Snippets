@@ -50,3 +50,4 @@
 50. Implement a program for Merge Sort
 51. Implement a program using Recursion
 52. Implement a program to calculate Power of number using Recursion
+53. Implement a program for Bit Manipulation
