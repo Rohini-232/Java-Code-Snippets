@@ -44,10 +44,12 @@
 44. Implement a program for Bubble Sort
 45. Implement a program for Selection Sort
 46. Implement a program for Insertion Sort
-47. Implement a program for Binary Search
-48. Implement a program for search in sorted matrix
-49. Implement a program to find sub array from array
-50. Implement a program for Merge Sort
-51. Implement a program using Recursion
-52. Implement a program to calculate Power of number using Recursion
-53. Implement a program for Bit Manipulation
+47. Implement a program for Merge Sort
+48. Implement a program for Counting Sort
+49. Implement a program for Binary Search
+50. Implement a program for search in sorted matrix
+51. Implement a program to find sub array from array
+52. Implement a program for Merge Sort
+53. Implement a program using Recursion
+54. Implement a program to calculate Power of number using Recursion
+55. Implement a program for Bit Manipulation
