@@ -53,3 +53,4 @@
 53. Implement a program using Recursion
 54. Implement a program to calculate Power of number using Recursion
 55. Implement a program for Bit Manipulation
+56. Implement a program for longest sum of continuous subarray using Kadane's Algorithm
