@@ -55,3 +55,4 @@
 55. Implement a program for Bit Manipulation
 56. Implement a program for longest sum of continuous subarray using Kadane's Algorithm
 57. Implement a program to check Array is Sorted or not
+58. Implement a program for second smallest and largest element in array
